@@ -1,0 +1,70 @@
+.body {
+    
+    background-color: #e6e6e6;
+    
+}
+
+.indexpicture {
+    
+    width: 100%;
+    
+}
+
+.myjumbotron {
+    
+    float: right;
+    background-color: #e6e6e6;
+    margin-right:10px;
+    
+}
+
+.mynavbar {
+    
+    margin-bottom:0px !important;
+    
+}
+
+.navbarlink {
+    
+    margin:1px;
+    color: #e0e0d1 !important;
+    background-color: #4d4dff !important;
+     
+}
+
+.navbarlink:hover {
+    
+     background-color: #e6e6e6 !important;
+     color: #222 !important;
+    
+}
+
+.signature {
+    
+    float: left;
+    border-radius: 2 px;
+    color: #222;
+    padding: 10px;
+    
+}
+
+.social {
+    
+    font-size: 350%;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}
+
+.social:hover {
+    
+    color: black !important;
+    
+}
+
+.socialmedia {
+    
+    text-align: center;
+    padding: 10px;
+    
+}
