@@ -2,18 +2,26 @@
 
 class file {
 
-    function write($a) {
+    function write($a, $b) {
 
         $file = fopen($a, "x");
-        fwrite($file, "Hello World. Testing!");
+        fwrite($file, "-- poruka -->$b<-- poruka --");
         fclose($file);
     }
 
-    function edit($a) {
+    function edit($a, $b) {
 
         $file = fopen($a, "a");
-        fwrite($file, "nadopuna!!!!");
+        fwrite($file, "-- poruka -->$b<-- poruka --");
         fclose($file);
+    }
+    
+    function mail($a, $b) {
+        
+        $file=fopen($a, "a");
+        fwrite($file, "-- @email -->$b<-- email@ --");
+        fclose($file);
+        
     }
 
 } //end of class file
