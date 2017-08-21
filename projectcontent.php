@@ -8,20 +8,20 @@
 
         <div class="row" style="padding: 5px !important;">
             <div class="col-xs-12 col-md-12" style="display: flex !important;">
-                <a href="images/background.jpg" class="thumbnail mythumbnail">
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/ghs1.png" class="thumbnail mythumbnail">
+                    <img src="images/ghs1.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/ghs2.png" class="thumbnail mythumbnail" >
+                    <img src="images/ghs2.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail">
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/ghs3.png" class="thumbnail mythumbnail">
+                    <img src="images/ghs3.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/ghs4.png" class="thumbnail mythumbnail" >
+                    <img src="images/ghs4.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/ghs5.png" class="thumbnail mythumbnail" >
+                    <img src="images/ghs5.png" alt="...">
                 </a>
             </div>
 
@@ -41,20 +41,20 @@
 
         <div class="row" style="padding: 5px !important;">
             <div class="col-xs-12 col-md-12" style="display: flex !important;">
-                <a href="images/background.jpg" class="thumbnail mythumbnail">
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/port1.png" class="thumbnail mythumbnail">
+                    <img src="images/port1.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/port1.png" class="thumbnail mythumbnail">
+                    <img src="images/port1.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail">
-                    <img src="images/background.jpg" alt="...">
+                <a href="images/port1.png" class="thumbnail mythumbnail">
+                    <img src="images/port1.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+                 <a href="images/port1.png" class="thumbnail mythumbnail">
+                    <img src="images/port1.png" alt="...">
                 </a>
-                <a href="images/background.jpg" class="thumbnail mythumbnail" >
-                    <img src="images/background.jpg" alt="...">
+               <a href="images/port1.png" class="thumbnail mythumbnail">
+                    <img src="images/port1.png" alt="...">
                 </a>
             </div>
 
