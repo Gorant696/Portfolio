@@ -1,37 +1,21 @@
+<?php include 'phpscript/classfile.php'; ?>
+
 <div>
 
-    <?php
+   <?php
+   
+   
+   
 
-    class file {
+if (file_exists("notes/text.txt")) {
 
-        function write($a) {
+    $file->edit("notes/text.txt");
+} else {
 
-            $file = fopen($a, "x");
-            fwrite($file, "Hello World. Testing!");
-            fclose($file);
-        }
-        
-        
-        function edit($a) {
-            
-            $file = fopen($a, "a");
-            fwrite($file, "nadopuna!!!!");
-            fclose($file);
-            
-        }
-        
+    $file->write("notes/text.txt");
+}// end else statement
+   
+   ?>
 
-    }    //end of defining class
-    
-    $file = new file;
-
-    if (file_exists("text.txt")) {
-
-        $file->edit("text.txt");
-    } else {
-
-        $file->write("text.txt");
-    }// end else statement
-    ?> 
-
+ 
 </div>
