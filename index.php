@@ -5,20 +5,20 @@
 <html>
 
     <?php
-    include 'head.php';
+    include 'includes/head.php';
     ?>
 
     <body class="bodyindex">
 
         <?php
-        include 'navbar.php';
+        include 'includes/navbar.php';
         ?>
 
         
         <img src="images/background.jpg" width="100%" class="indexpicture">
           
             
-      <?php  include 'footer.php'; ?>
+      <?php  include 'includes/footer.php'; ?>
         
     </body>
 

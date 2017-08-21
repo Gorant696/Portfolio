@@ -5,15 +5,15 @@
 <html>
 
     <?php
-    include 'head.php';
+    include 'includes/head.php';
     ?>
 
     <body class="bodyindex">
 
         <?php
-        include 'navbar.php';
-        include 'projectcontent.php';
-        include 'footer.php'; ?>
+        include 'includes/navbar.php';
+        include 'includes/projectcontent.php';
+        include 'includes/footer.php'; ?>
         
     </body>
 
