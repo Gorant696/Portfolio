@@ -9,7 +9,7 @@
 
     <div class="myjumbotron">
 
-        <p style="padding-top: 10px;"><a class="btn btn-primary btn-lg" href="#" role="button">Contact me!</a></p>
+        <p style="padding-top: 10px;"><a class="btn btn-primary btn-lg" href="contact.php" role="button">Contact me!</a></p>
 
     </div>
 
