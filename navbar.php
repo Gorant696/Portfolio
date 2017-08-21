@@ -8,7 +8,7 @@
 
                 <li role="presentation" ><a href="index.php" class="navbarlink">Home page</a></li>
                 <li role="presentation" ><a href="#" class="navbarlink">Pictures</a></li>
-                <li role="presentation" ><a href="#" class="navbarlink">Projects</a></li>
+                <li role="presentation" ><a href="Projects.php" class="navbarlink">Projects</a></li>
                 <li role="presentation" ><a href="#" class="navbarlink">Biography - Curriculum vitae</a></li>
 
             </ul>

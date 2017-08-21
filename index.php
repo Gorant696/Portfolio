@@ -8,7 +8,7 @@
     include 'head.php';
     ?>
 
-    <body class="body">
+    <body class="bodyindex">
 
         <?php
         include 'navbar.php';
