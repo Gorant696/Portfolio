@@ -12,14 +12,12 @@
 
         <?php
         include 'includes/navbar.php';
+        include 'includes/indexcontent.php';
+        include 'includes/footer.php';
         ?>
 
-        
-        <img src="images/background.jpg" width="100%" class="indexpicture">
-          
-            
-      <?php  include 'includes/footer.php'; ?>
-        
+        <script src="js/indexslide.js"></script>
+
     </body>
 
 </html>
