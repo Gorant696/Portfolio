@@ -9,7 +9,7 @@ if (isset($_POST['submit'])) {
         $text = $_POST['text'];
         $name = $_POST['name'];
         $email = $_POST['email'];
-        
+
 
         if (file_exists("notes/$name.txt")) {
 

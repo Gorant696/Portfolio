@@ -15,18 +15,17 @@ class file {
         fwrite($file, "-- poruka -->$b<-- poruka --");
         fclose($file);
     }
-    
+
     function mail($a, $b) {
-        
-        $file=fopen($a, "a");
+
+        $file = fopen($a, "a");
         fwrite($file, "-- @email -->$b<-- email@ --");
         fclose($file);
-        
     }
 
-} //end of class file
+}//end of class file
+
+
 
 $file = new file;
-
-
 ?> 
