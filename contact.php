@@ -1,4 +1,4 @@
-<?php $index = 'Projects'; ?>
+<?php $index = 'Contact me'; ?>
 
 <!DOCTYPE html>
 
