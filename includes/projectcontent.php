@@ -1,6 +1,6 @@
 <div class="panel panel-default" style="margin: 0px !important;">
     <div class="panel-heading">
-        <h3 class="panel-title"><a href="https://github.com/Gorant696/GHS" title="Click here to visit GHS on GitHub!" target="_blank">Geek Hot Spot!</a></h3>
+        <h3 class="panel-title"><a href="https://github.com/Gorant696/GHS" title="Click here to visit GHS on GitHub!" target="_blank">Geek Hot Spot! <span class="fa  fa-github"></span></a></h3>
     </div>
     <div class="panel-body mypanel">
 
@@ -33,7 +33,7 @@
 
 <div class="panel panel-default" style="margin: 0px !important;">
     <div class="panel-heading">
-        <h3 class="panel-title"><a href="#" title="Click here to visit my portfolio web project on GitHub!" target="_blank">Personal web site and portfolio</a></h3>
+        <h3 class="panel-title"><a href="#" title="Click here to visit my portfolio web project on GitHub!" target="_blank">Personal web site and portfolio <span class="fa  fa-github"></span></a></h3>
     </div>
     <div class="panel-body mypanel">
 
@@ -66,7 +66,7 @@
 
 <div class="panel panel-default" style="margin: 0px !important;">
     <div class="panel-heading">
-        <h3 class="panel-title"><a href="#" title="Click here to visit Office Tools project on GitHub!" target="_blank">Office Tools</a></h3>
+        <h3 class="panel-title"><a href="#" title="Click here to visit Office Tools project on GitHub!" target="_blank">Office Tools <span class="fa  fa-github"></span></a></h3>
     </div>
     <div class="panel-body mypanel">
 
