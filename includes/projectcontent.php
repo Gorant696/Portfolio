@@ -44,17 +44,17 @@
                 <a href="images/port1.png" class="thumbnail mythumbnail">
                     <img src="images/port1.png" alt="...">
                 </a>
-                <a href="images/port1.png" class="thumbnail mythumbnail">
-                    <img src="images/port1.png" alt="...">
+                <a href="images/port2.png" class="thumbnail mythumbnail">
+                    <img src="images/port2.png" alt="...">
                 </a>
-                <a href="images/port1.png" class="thumbnail mythumbnail">
-                    <img src="images/port1.png" alt="...">
+                <a href="images/port3.png" class="thumbnail mythumbnail">
+                    <img src="images/port3.png" alt="...">
                 </a>
-                 <a href="images/port1.png" class="thumbnail mythumbnail">
-                    <img src="images/port1.png" alt="...">
+                <a href="images/port4.png" class="thumbnail mythumbnail">
+                    <img src="images/port4.png" alt="...">
                 </a>
-               <a href="images/port1.png" class="thumbnail mythumbnail">
-                    <img src="images/port1.png" alt="...">
+                <a href="images/port5.png" class="thumbnail mythumbnail">
+                    <img src="images/port5.png" alt="...">
                 </a>
             </div>
 

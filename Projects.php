@@ -13,8 +13,9 @@
         <?php
         include 'includes/navbar.php';
         include 'includes/projectcontent.php';
-        include 'includes/footer.php'; ?>
-        
+        include 'includes/footer.php';
+        ?>
+
     </body>
 
 </html>

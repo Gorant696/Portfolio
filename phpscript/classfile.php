@@ -23,7 +23,9 @@ class file {
         fclose($file);
     }
 
-}//end of class file
+}
+
+//end of class file
 
 
 

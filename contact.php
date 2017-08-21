@@ -13,8 +13,9 @@
         <?php
         include 'includes/navbar.php';
         include 'includes/contactcontent.php';
-        include 'includes/footer.php'; ?>
-        
+        include 'includes/footer.php';
+        ?>
+
     </body>
 
 </html>
