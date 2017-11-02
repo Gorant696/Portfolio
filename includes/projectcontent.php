@@ -99,10 +99,30 @@
 
 <div class="panel panel-default" style="margin: 0px !important;">
     <div class="panel-heading">
-        <h3 class="panel-title"><a href="#" title="Click here to visit Office Tools project on GitHub!" target="_blank">Office Tools <span class="fa  fa-github"></span></a></h3>
+        <h3 class="panel-title"><a href="https://github.com/Gorant696/lumen_project_beyondi" title="Click here to visit Office Tools project on GitHub!" target="_blank">User authentication API (framework: Laravel/Lumen) <span class="fa  fa-github"></span></a></h3>
     </div>
     <div class="panel-body mypanel">
 
+            <div class="row" style="padding: 5px !important;">
+            <div class="col-xs-12 col-md-12" style="display: flex !important;">
+                <a href="images/lumen1.png" class="thumbnail mythumbnail">
+                    <img src="images/lumen1.png" alt="...">
+                </a>
+                <a href="images/lumen2.png" class="thumbnail mythumbnail" >
+                    <img src="images/lumen2.png" alt="...">
+                </a>
+                <a href="images/lumen3.png" class="thumbnail mythumbnail">
+                    <img src="images/lumen3.png" alt="...">
+                </a>
+                <a href="images/lumen4.png" class="thumbnail mythumbnail" >
+                    <img src="images/lumen4.png" alt="...">
+                </a>
+                <a href="images/lumen5.png" class="thumbnail mythumbnail" >
+                    <img src="images/lumen5.png" alt="...">
+                </a>
+            </div>
+
+        </div> <!--thumbnail-->
 
     </div> <!-- panel body-->
 </div> <!-- panel-->
